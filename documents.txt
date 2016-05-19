@@ -1,0 +1,3 @@
+John and Bob are brothers.
+John went to the store. The store was closed.
+Bob went to the store too.
